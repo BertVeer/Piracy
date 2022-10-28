@@ -2,7 +2,7 @@
 Piracy for the Arduboy.\
 Compiled with Arduino 1.8.16
 
-![Screenshots](/image/screens.png)
+![Screenshots](/images/screens.png)
 
 Instructions:
 ```
